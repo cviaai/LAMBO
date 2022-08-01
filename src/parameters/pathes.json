@@ -1,0 +1,5 @@
+{
+  "data": "/raid/data/",
+  "tensorboard": "/home/buzun/",
+  "models": "/raid/data/saved_models"
+}
